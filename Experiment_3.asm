@@ -1,4 +1,6 @@
 .org	00
+
+/* Generate a PWM
 	call	initTimer0
 start:
     rjmp start
