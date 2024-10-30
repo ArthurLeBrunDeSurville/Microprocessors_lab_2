@@ -1,4 +1,5 @@
 .org 00
+// Generate a 1kHz PWM signal with 25% width
 call initTimer0
 
 start:
